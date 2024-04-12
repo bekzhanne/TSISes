@@ -19,7 +19,7 @@ rectsec = sec.get_rect()
 rectmin = minute.get_rect()
 rectmin.center = rectsec.center = midle
 
-background = pg.image.load(r"D:\.vscode\.vscodepython\lab7\picture\mainclock.png0")
+background = pg.image.load(r"D:\.vscode\.vscodepython\lab7\picture\mainclock.png")
 run =True
 
 angle1 = 0
